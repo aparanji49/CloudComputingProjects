@@ -9,3 +9,7 @@ Deployed a full-stack web-based bookstore application using React (frontend), JS
 
 ### 3. Top 20 Hashtags Counter using PySpark and Amazon EMR
 Developed a distributed data processing pipeline to analyze Twitter JSON data and identify the top 20 hashtags using PySpark on Amazon EMR. Implemented a mapper-reducer approach for efficient hashtag extraction and counting, leveraging Apache Spark’s RDDs for scalability. Deployed the solution on a transient EMR cluster with output stored in AWS S3. Successfully processed large datasets, optimized resource usage, and ensured accurate hashtag frequency ranking.
+
+### 4. REST API Implementation using AWS Lambda
+
+Developed a serverless backend with AWS Lambda, API Gateway, and RDS, implementing secure REST APIs for CRUD operations while resolving region-specific IAM challenges and ensuring seamless database integration.
