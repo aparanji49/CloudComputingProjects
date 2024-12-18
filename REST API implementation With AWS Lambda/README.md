@@ -1,7 +1,5 @@
 # REST API Implementation using AWS Lambda
 
-Developed a serverless backend with AWS Lambda, API Gateway, and RDS, implementing secure REST APIs for CRUD operations while resolving region-specific IAM challenges and ensuring seamless database integration.
-
 ## Overview
 
 The project involves developing a set of REST API endpoints using AWS Lambda to support a database-backed web application. The APIs enable CRUD operations for books and categories, stored in an RDS database. The project leverages Amazon API Gateway to expose the endpoints and AWS Lambda for serverless function execution. IAM policies were configured to ensure secure access to the AWS resources.
